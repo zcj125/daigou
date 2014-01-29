@@ -20,7 +20,7 @@ function wp_initial_constants() {
 		if( is_multisite() ) {
 			define('WP_MEMORY_LIMIT', '64M');
 		} else {
-			define('WP_MEMORY_LIMIT', '40M');
+			define('WP_MEMORY_LIMIT', '64M');
 		}
 	}
 
@@ -69,7 +69,7 @@ function wp_initial_constants() {
 		define('WP_DEBUG_LOG', false);
 
 	if ( !defined('WP_CACHE') )
-		define('WP_CACHE', false);
+		define('WP_CACHE', true);
 
 	/**
 	 * Private

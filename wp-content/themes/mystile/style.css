@@ -604,7 +604,7 @@ ul.nav li a {
 }
 #header hgroup {
   position: relative;
-  margin-bottom: 1.618em;
+/*  margin-bottom: 1.618em;*/
 }
 #header hgroup:after {
   content: "\0020";
@@ -1710,7 +1710,7 @@ p.demo_store {
   top: 0;
   position: absolute;
   left: 0;
-  color: #666666;
+  color: #ffcc1c;
 }
 .widget .star-rating {
   margin: .53em 0;

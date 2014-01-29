@@ -1,0 +1,87 @@
+********************************************************************************
+PACKAGE-LOG: 2014-01-29 17:22:26
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.1
+WORDPRESS:	3.8.1
+PHP INFO:	5.4.19 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (40M default) 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:19 | filtered:0 | create:19 
+FILTERED: [] 
+wp_commentmeta (5) 
+wp_comments (2) 
+wp_duplicator_packages (1) 
+wp_links (0) 
+wp_options (296) 
+wp_postmeta (36) 
+wp_posts (20) 
+wp_term_relationships (2) 
+wp_term_taxonomy (12) 
+wp_terms (12) 
+wp_usermeta (19) 
+wp_users (1) 
+wp_woocommerce_attribute_taxonomies (0) 
+wp_woocommerce_downloadable_product_permissions (0) 
+wp_woocommerce_order_itemmeta (0) 
+wp_woocommerce_order_items (0) 
+wp_woocommerce_tax_rate_locations (0) 
+wp_woocommerce_tax_rates (0) 
+wp_woocommerce_termmeta (0) 
+SQL CREATED: 20140129_518us_52e938d265f499214140129172226_database.sql 
+SQL FILE SIZE: 477.09KB 
+SQL RUNTIME: 0.10 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/jzhao/Sites/daigou2 
+ARCHIVE FILE: 20140129_518us_52e938d265f499214140129172226_archive.zip 
+FILTER DIRS:   
+FILTER EXTS:   
+---------------------------------------- 
+SCANNING 
+FILTERS *OFF* 
+STATS:	Dirs 571 | Files 5098 | Links 0 
+SIZE:	47.9MB 
+TIME:	1.13 sec. 
+---------------------------------------- 
+COMPRESSING 
+SQL ADDED: 20140129_518us_52e938d265f499214140129172226_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5670
+    [filename] => /Users/jzhao/Sites/daigou2/wp-snapshots/tmp/20140129_518us_52e938d265f499214140129172226_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 26.59MB 
+ARCHIVE RUNTIME: 16.60 sec. 
+
+******************************************************************************** 
+INSTALLER: 
+******************************************************************************** 
+INSTALLER FILE: Build Start 
+INSTALLER FILE: Build Finished 
+INSTALLER FILE: Preping for use 
+INSTALLER FILE: Template parsed with new data 
+INSTALLER FILE: Complete [/Users/jzhao/Sites/daigou2/wp-snapshots/tmp/20140129_518us_52e938d265f499214140129172226_installer.php] 
+
+********************************************************************************
+RECORD ID:[1]
+FILE SIZE: Archive:26.59MB | SQL:477.09KB | Installer:428.45KB
+TOTAL PROCESS RUNTIME: 16.89 sec.
+DONE PROCESSING => 20140129_518us 2014-01-29 17:22:43
+********************************************************************************
+ 
