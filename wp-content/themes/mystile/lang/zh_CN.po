@@ -3,13 +3,14 @@ msgstr ""
 "Project-Id-Version: Mystile v1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-07-30 15:59:08+0000\n"
+"PO-Revision-Date: 2014-01-31 00:26:29+0000\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: CSL v1.x\n"
 "X-Poedit-Language: \n"
 "X-Poedit-Country: \n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -27,7 +28,7 @@ msgstr "您访问的页面好像搬家了～！"
 #: 404.php:21
 #@ woothemes
 msgid "The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for."
-msgstr ""
+msgstr "对不起，您访问的页面不存在或者搬家了。请用菜单或者搜索工具来查找。"
 
 #: archive.php:19
 #: archive.php:25
@@ -71,7 +72,7 @@ msgstr "这是个密码保护的页面，请输入密码后查看"
 #: comments.php:37
 #@ woothemes
 msgid "No Responses"
-msgstr "没音讯咯。。。"
+msgstr "无反应。。。"
 
 #: comments.php:37
 #@ woothemes
@@ -96,7 +97,7 @@ msgstr ""
 #: comments.php:70
 #@ woothemes
 msgid "No comments yet."
-msgstr "沙发，请留言吧"
+msgstr "请留下足迹吧～"
 
 #: content.php:53
 #@ woothemes
