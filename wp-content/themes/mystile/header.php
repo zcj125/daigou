@@ -45,7 +45,10 @@ global $woo_options, $woocommerce;
 			<?php } ?>
 			<?php
 				if ( class_exists( 'woocommerce' ) ) {
-					echo '<ul class="nav wc-nav">';
+					echo '<ul class="nav wc-nav">';?>
+             <a href='my-account'><?php get_site_url().'/my-account/'; ?></a>
+
+                    <?php
 					woocommerce_cart_link();
 					echo '<li class="checkout"><a href="'.esc_url($woocommerce->cart->get_checkout_url()).'">'.__('Checkout','woothemes').'</a></li>';
 					echo get_search_form();
